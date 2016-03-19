@@ -1,0 +1,121 @@
+
+.nav2 a{color:black;text-decoration:none;}
+.pad{
+	width:100%;
+	height:5px;
+}
+.fol{
+	float: left;
+	list-style: none;
+	margin-left: 10px;
+}
+*{
+	font-family: "微软雅黑";
+}
+.ico1{
+	width: 10px;
+	height: 10px;
+	background-color:blue;
+	margin-top: 10px;
+	margin-right:9px;
+	float: left;;
+}
+.navcolor{
+	background-color: #E9EFF6;
+	color: #AAAAAA;
+}
+.logo{ 
+	width: 100px;
+	margin-top: 10px;
+	margin-bottom:5px;
+	float: left;
+}
+.font{
+	margin-top: 25px;
+	margin-left:130px;
+	height:100px;
+	font-family: "微软雅黑";
+	color:#284797;
+	font-size: 30px;
+	font-weight: 600;
+}
+.fonten{
+	font-family: "微软雅黑";
+	font-size: 15px;
+}
+.nav1{
+	list-style: none;
+}
+.nav2{
+	float: left;
+	line-height:125px;
+	height: 125px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+	display: block;
+}
+
+.nav2 a:hover{
+	color:white;
+	
+}
+.nav2:hover{
+ background-color: blue;
+ color:white;
+ 
+}
+.cheight{
+	height:150px;
+	background-color: #284797;	
+	background: url(../upload/banner.jpg) ;
+}
+.title{
+	font-family: "微软雅黑";
+	font-size: 25px;
+	line-height: 25px;
+	font-weight: bold;
+}
+.hd{
+	height: 20px;
+}
+.teachertitle{
+	font-family: "微软雅黑";
+	color:#FFFFFF;
+	font-size: 40px;
+	margin-left: 15%;
+	margin-top: 2.33333%;
+}
+.lead_1{
+	height: 160px;
+	width: 120px;
+	float: left;
+	margin-top:30px ;
+}
+.name1{
+	float: left;
+	font-family: "微软雅黑";
+    font-size: 18px;
+	font-weight: bold;
+	margin-top:60px;
+	margin-left: 10px;
+}
+.jieshao{
+	float:left;
+	margin-top:30px;
+	margin-left: 20px;
+}
+.call{
+	margin-bottom: 5px;
+	font-family:"黑体";
+	
+}
+.footfont{
+	color:white;
+	font-size: 15px;
+	line-height: 30px;
+}
+.foot{
+	width:100%;
+	
+}
